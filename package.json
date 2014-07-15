@@ -1,8 +1,8 @@
 {
-  "name": "hosted-hubot",
+  "name": "rkjun-hipchat-hubot",
   "version": "2.7.1",
   "private": true,
-  "author": "GitHub Inc.",
+  "author": "rkJun",
   "keywords": [
     "github",
     "hubot",
